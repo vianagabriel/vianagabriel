@@ -9,4 +9,4 @@ Sou Gabriel Viana, um entusiasta da tecnologia apaixonado por transformar linhas
 🌐 No momento, estou focado em aprimorar minhas habilidades em Python, estudando cloud computing e dedicando tempo ao estudo do inglês para expandir minha comunicação no mundo tech.
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-viana-cunha/)
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
