@@ -13,3 +13,6 @@ Sou Gabriel Viana, um entusiasta da tecnologia apaixonado por transformar linhas
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
+
+
+[![Gabriel GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vianagabriel&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/vianagabriel/github-readme-stats#gh-dark-mode-only)
