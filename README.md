@@ -15,6 +15,3 @@ Sou Gabriel Viana, um entusiasta da tecnologia apaixonado por transformar linhas
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vianagabriel&show_icons=true&bg_color=00000000)
-
-dfdf
