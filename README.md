@@ -1,16 +1,42 @@
-Olá, mundo!👋🏽
+# Bem-vindo ao meu Repositório 
 
-Sou Gabriel Viana, um entusiasta da tecnologia apaixonado por transformar linhas de código em soluções. Atualmente, estou no último ano do curso de Análise e Desenvolvimento de Sistemas, mergulhando ainda mais fundo no universo da programação.
+Olá! Meu nome é Gabriel, e este é o meu repositório de estudos focado em aprender e explorar a linguagem de programação GoLang, bem como conceitos relacionados a Cloud Computing e Banco de Dados. Este repositório serve como meu diário de estudos, documentando meu progresso enquanto me aprofundo nessas áreas fascinantes da tecnologia.
 
-💻 Minha jornada acadêmica tem sido marcada por muitos desafios e projetos que me permitiram colocar a prova minhas habilidades em desenvolvimento. Estou animado para aplicar meu conhecimento no mundo real e contribuir para a comunidade de desenvolvedores.
+## Sobre Mim
 
-🚀 Este é meu espaço no GitHub, onde compartilho meus projetos e aprendizados. Sinta-se à vontade para explorar, fazer fork e sugerir melhorias. Acredito na força da comunidade para impulsionar o desenvolvimento de software.
+- 👨‍💻 **Nome:** Gabriel Viana
+- 🎓 **Formação:** Último Semestre de Análise e Desenvolvimento de Sistemas
+- 📅 **Idade:** 25 anos
 
-🌐 No momento, estou focado em aprimorar minhas habilidades em Python, estudando cloud computing e dedicando tempo ao estudo do inglês para expandir minha comunicação no mundo tech.
+## Objetivo do Repositório
+
+O objetivo deste repositório é:
+
+- Registrar meu progresso ao aprender GoLang.
+- Compartilhar conhecimento e recursos úteis que encontrei durante meus estudos.
+- Demonstrar minhas habilidades e projetos desenvolvidos em GoLang.
+
+## Tópicos de Estudo
+
+Este repositório abrange uma variedade de tópicos, incluindo:
+
+- Fundamentos da linguagem GoLang.
+- Conceitos avançados e práticas recomendadas em GoLang.
+- Princípios e práticas em Cloud Computing.
+- Bancos de Dados SQL e NoSQL.
+- Projetos práticos e exemplos de código.
+- Clean code.
+- Arquitetura de software
+- Entre outros...
+
+
+## Contato
+
+- 📧 **E-mail:** vianagabrieldacunha@gmail.com
+- **Whatsapp:** 11957293050
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-viana-cunha/)
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 [![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
 
