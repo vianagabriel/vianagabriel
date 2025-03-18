@@ -6,7 +6,7 @@ Olá! Meu nome é Gabriel, e este é o meu repositório de estudos focado em apr
 
 - 👨‍💻 **Nome:** Gabriel Viana
 - 🎓 **Formação:** Último ano de Análise e Desenvolvimento de Sistemas
-- 📅 **Idade:** 25 anos
+- 📅 **Idade:** 26 anos
 
 ## Objetivo do Repositório
 
