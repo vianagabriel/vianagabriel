@@ -5,23 +5,22 @@ Olá! Meu nome é Gabriel, e este é o meu repositório de estudos focado em apr
 ## Sobre Mim
 
 - 👨‍💻 **Nome:** Gabriel Viana
-- 🎓 **Formação:** Último ano de Análise e Desenvolvimento de Sistemas
 - 📅 **Idade:** 26 anos
 
 ## Objetivo do Repositório
 
 O objetivo deste repositório é:
 
-- Registrar meu progresso ao aprender GoLang.
+- Registrar meu progresso ao aprender GoLang\ADVPL.
 - Compartilhar conhecimento e recursos úteis que encontrei durante meus estudos.
-- Demonstrar minhas habilidades e projetos desenvolvidos em GoLang.
+- Demonstrar minhas habilidades e projetos desenvolvidos em GoLang/ADVPL.
 
 ## Tópicos de Estudo
 
 Este repositório abrange uma variedade de tópicos, incluindo:
 
-- Fundamentos da linguagem GoLang.
-- Conceitos avançados e práticas recomendadas em GoLang.
+- Fundamentos da linguagem GoLang/ADVPL.
+- Conceitos avançados e práticas recomendadas em GoLang/ADVPL.
 - Princípios e práticas em Cloud Computing.
 - Bancos de Dados SQL e NoSQL.
 - Projetos práticos e exemplos de código.
