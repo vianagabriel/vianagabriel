@@ -1,33 +1,30 @@
-# Bem-vindo ao meu Repositório 
+Bem-vindo ao meu Repositório
+Olá! Meu nome é Gabriel, e este é o meu repositório de estudos focado em aprender e explorar a linguagem de programação ADVPL, JavaScript e tecnologias relacionadas, como o framework POUI, que integra Angular e TOVTS no ecossistema Protheus. Este repositório serve como meu diário de estudos, documentando meu progresso enquanto me aprofundo nessas áreas empolgantes da tecnologia.
+Sobre Mim
 
-Olá! Meu nome é Gabriel, e este é o meu repositório de estudos focado em aprender e explorar a linguagem de programação GoLang e ADVPL, bem como conceitos relacionados a Cloud Computing e Banco de Dados. Este repositório serve como meu diário de estudos, documentando meu progresso enquanto me aprofundo nessas áreas fascinantes da tecnologia.
+👨‍💻 Nome: Gabriel Viana
+📅 Idade: 26 anos
+💼 Foco Profissional: Desenvolvedor ADVPL e Protheus, com ênfase em solidificar conhecimentos em JavaScript para utilização com POUI.
 
-## Sobre Mim
-
-- 👨‍💻 **Nome:** Gabriel Viana
-- 📅 **Idade:** 26 anos
-
-## Objetivo do Repositório
-
+Objetivo do Repositório
 O objetivo deste repositório é:
 
-- Registrar meu progresso ao aprender GoLang\ADVPL.
-- Compartilhar conhecimento e recursos úteis que encontrei durante meus estudos.
-- Demonstrar minhas habilidades e projetos desenvolvidos em GoLang/ADVPL.
+Registrar meu progresso ao aprender ADVPL e JavaScript.
+Compartilhar conhecimento, recursos úteis e boas práticas que encontro durante meus estudos.
+Demonstrar minhas habilidades e projetos desenvolvidos com ADVPL, JavaScript e POUI.
 
-## Tópicos de Estudo
-
+Tópicos de Estudo
 Este repositório abrange uma variedade de tópicos, incluindo:
 
-- Fundamentos da linguagem GoLang/ADVPL.
-- Conceitos avançados e práticas recomendadas em GoLang/ADVPL.
-- Princípios e práticas em Cloud Computing.
-- Bancos de Dados SQL e NoSQL.
-- Projetos práticos e exemplos de código.
-- Clean code.
-- Arquitetura de software
-- Entre outros...
-
+Fundamentos da linguagem ADVPL.
+Conceitos avançados e práticas recomendadas em ADVPL.
+Fundamentos e técnicas modernas de JavaScript.
+Desenvolvimento com POUI, Angular e TOVTS no contexto do Protheus.
+Bancos de Dados SQL e NoSQL.
+Projetos práticos e exemplos de código.
+Arquitetura de software.
+Integração de tecnologias no ecossistema Protheus.
+Entre outros...
 
 ## Contato
 
